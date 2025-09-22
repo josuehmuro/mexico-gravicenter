@@ -148,6 +148,8 @@ approx_centre <- function(number, trials) {
          ci_square = ci_square))
 }
 
+# example usage
+
 approx_centre(5, 10)
 
 
