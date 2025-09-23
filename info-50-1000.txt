@@ -1,0 +1,7 @@
+Time difference of 1.073146 hours
+
+$approx_midpoint
+(-102.53 23.96195)
+
+$ci_square
+POLYGON ((-102.591 23.91971, -102.4691 24.017665))
